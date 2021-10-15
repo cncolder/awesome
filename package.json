@@ -1,0 +1,17 @@
+{
+  "name": "awesome",
+  "version": "1.0.0",
+  "description": "A curated list of my GitHub shopping cart",
+  "repository": "https://github.com/cncolder/awesome.git",
+  "license": "MIT",
+  "author": "colder",
+  "main": "README.md",
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "prettier-plugin-packagejson": "^2.2.13"
+  }
+}
