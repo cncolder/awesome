@@ -293,6 +293,26 @@
   ![GitHub release](https://img.shields.io/github/v/release/mobxjs/mobx?style=social)
   ![GitHub last commit](https://img.shields.io/github/last-commit/mobxjs/mobx?style=social)
 
+- [reduxjs/redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps
+
+  https://redux.js.org/
+
+  这个不用介绍了吧. 很多时候你没的选.
+
+  ![GitHub Repo stars](https://img.shields.io/github/stars/reduxjs/redux?style=social)
+  ![GitHub release](https://img.shields.io/github/v/release/reduxjs/redux?style=social)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/reduxjs/redux?style=social)
+
+- 👀 [pmndrs/zustand](https://github.com/pmndrs/zustand) 🐻 Bear necessities for state management in React
+
+  https://zustand.surge.sh/
+
+  思路上与 Redux 相似, 但从 `create` 到 `useStore` 显得很自然, 没有太多模板代码, 也没有那么多概念, 你可以渐进式的使用新功能.
+
+  ![GitHub Repo stars](https://img.shields.io/github/stars/pmndrs/zustand?style=social)
+  ![GitHub release](https://img.shields.io/github/v/release/pmndrs/zustand?style=social)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/zustand?style=social)
+
 - ⭐️ [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 
   https://react-query.tanstack.com/
@@ -711,13 +731,23 @@
 
 ## TypeScript
 
-- [adriengibrat/ts-custom-error](https://github.com/adriengibrat/ts-custom-error) Extend native Error to create custom errors
+- ⭐️ [adriengibrat/ts-custom-error](https://github.com/adriengibrat/ts-custom-error) Extend native Error to create custom errors
 
   Custom Error 父类
 
   ![GitHub Repo stars](https://img.shields.io/github/stars/adriengibrat/ts-custom-error?style=social)
   ![GitHub release](https://img.shields.io/github/v/release/adriengibrat/ts-custom-error?style=social)
   ![GitHub last commit](https://img.shields.io/github/last-commit/adriengibrat/ts-custom-error?style=social)
+
+- 👀 [gcanti/fp-ts](https://github.com/gcanti/fp-ts) Functional programming in TypeScript
+
+  https://gcanti.github.io/fp-ts/
+
+  当 FP 遇到 Type. 在 JS 中实现 FP, 不仅仅是如何把功能做对, 把语法弄漂亮, 还要考虑如何让[类型推导更合理](https://dev.to/gcanti/series/680).
+
+  ![GitHub Repo stars](https://img.shields.io/github/stars/gcanti/fp-ts?style=social)
+  ![GitHub release](https://img.shields.io/github/v/release/gcanti/fp-ts?style=social)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/gcanti/fp-ts?style=social)
 
 ---
 
